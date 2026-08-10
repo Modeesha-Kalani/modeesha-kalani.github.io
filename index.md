@@ -23,5 +23,5 @@ redirect_from:
   <p class="card-title">Badges</p>
   {% include certification-badges.html %}
   <p>Click any badge to view the full-size image.</p>
-  <p><a href="/mydocs/Profile.pdf" class="btn btn--primary">Download my CV</a></p>
+  <p><a href="/mydocs/CV.pdf" class="btn btn--primary">Download my CV</a></p>
 </div>

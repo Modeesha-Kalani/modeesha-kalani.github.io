@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF version](/mydocs/Profile.pdf)
+[Download PDF version](/mydocs/CV.pdf)
 
 Profile
 ======
@@ -100,7 +100,7 @@ Honors & Awards
 
 Publications
 ======
-* Research Paper *(details available on request)*
+* **[Interactive and Visual Based Learning Tool for Recovering Hearing Impaired Children](https://ieeexplore.ieee.org/abstract/document/10225863)** — IEEE Xplore
 
 Portfolio
 ======

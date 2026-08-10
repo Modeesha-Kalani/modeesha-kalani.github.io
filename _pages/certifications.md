@@ -17,4 +17,4 @@ Click any badge to view the full-size image.
 * GitLab Continuous Integration (CI) Fundamentals
 * Continuous Integration and Continuous Delivery with GitLab
 
-[Download my CV](/mydocs/Profile.pdf){: .btn .btn--primary}
+[Download my CV](/mydocs/CV.pdf){: .btn .btn--primary}

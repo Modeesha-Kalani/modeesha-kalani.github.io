@@ -103,5 +103,8 @@ author_profile: true
 
 <div class="pretty-card">
   <p class="card-title">Publications</p>
-  <p>Research Paper <em>(details available on request)</em></p>
+  <p class="card-subtitle">Interactive and Visual Based Learning Tool for Recovering Hearing Impaired Children</p>
+  <p class="card-meta">IEEE Xplore</p>
+  <p>Research publication on an interactive and visual learning tool for hearing-impaired children, connected to the HearMe project.</p>
+  <p><a href="https://ieeexplore.ieee.org/abstract/document/10225863" target="_blank">View on IEEE Xplore</a></p>
 </div>
