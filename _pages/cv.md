@@ -19,10 +19,17 @@ Advanced Specialist DevOps & SRE at Pearson with 5+ years of experience in AWS, 
 
 Education
 ======
-* **Master of Science (MSc), Artificial Intelligence**, SLIIT — August 2025 – August 2026 *(in progress)*
-* **Bachelor of Science (BSc) with Honors, Information Technology (Software Engineering)**, SLIIT — 2019 – 2023
+* **Master of Science (MSc), Artificial Intelligence**, SLIIT — August 2025 – August 2027 *(in progress)*
+  * First batch of MSc in AI at SLIIT; Batch Top — 1st Year 2nd Semester
+* **Bachelor of Science (BSc), Information Technology (Software Engineering)**, SLIIT — 2019 – 2023
+  * Graduated 7 September 2023 with 2+ years industry experience; Batch Representative (4 years)
+  * Study support sessions for juniors (DSA, SDP, DevOps); 3 Dean's List Awards
+  * Final Year Research project recognized globally for impact and R&D
+  * Skills: Python, PHP
 * **Higher National Diploma, English Language and Literature**, Sabaragamuwa University — 2016 – 2017
+  * GPA 3.56/4.0; professional working proficiency in English
 * **Sivali Central College, Rathnapura** — January 2007 – August 2016
+  * 9A passes at O/L (2013); A/L Biological Sciences (2016); Senior Prefect (2015–2016)
 
 Work experience
 ======

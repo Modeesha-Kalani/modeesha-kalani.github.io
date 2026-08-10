@@ -62,8 +62,9 @@ h1, h2, h3, h4, h5, h6,
 
 /* Masthead */
 .masthead {
-  background: linear-gradient(90deg, #ffb3d1 0%, #ff8fbd 45%, #e84393 100%) !important;
-  box-shadow: 0 8px 24px var(--pink-shadow);
+  background: rgba(255, 255, 255, 0.94) !important;
+  border-bottom: 2px solid var(--pink-200);
+  box-shadow: 0 4px 18px rgba(194, 24, 91, 0.06);
 }
 
 .masthead::after {
@@ -72,7 +73,7 @@ h1, h2, h3, h4, h5, h6,
 
 .masthead__menu-item a,
 .masthead__menu-item--lg a {
-  color: #fff !important;
+  color: var(--pink-600) !important;
   font-family: var(--font-body) !important;
   font-weight: 600 !important;
   border-radius: 999px;
@@ -82,18 +83,20 @@ h1, h2, h3, h4, h5, h6,
 
 .masthead__menu-item a:hover,
 .masthead__menu-item--lg a:hover {
-  background: rgba(255, 255, 255, 0.22) !important;
-  color: #fff !important;
+  background: var(--pink-100) !important;
+  color: var(--pink-700) !important;
 }
 
 .masthead__menu-item.selected a {
-  background: rgba(255, 255, 255, 0.92) !important;
-  color: var(--pink-600) !important;
-  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.35);
+  background: var(--pink-100) !important;
+  color: var(--pink-700) !important;
+  box-shadow: none;
+  border: 1px solid var(--pink-200);
 }
 
 #theme-toggle a {
-  background: rgba(255, 255, 255, 0.18) !important;
+  background: var(--pink-50) !important;
+  color: var(--pink-600) !important;
 }
 
 /* Sidebar profile card */
@@ -303,20 +306,36 @@ figure.half a:hover img {
 
 /* Footer */
 .page__footer {
-  background: linear-gradient(90deg, #ffb3d1, #ff8fbd, #e84393) !important;
-  color: #fff !important;
+  background: #fff8fb !important;
+  color: var(--pink-700) !important;
   margin-top: 2rem;
-  border-top: none;
+  border-top: 2px solid var(--pink-200);
 }
 
 .page__footer a {
-  color: #fff !important;
+  color: var(--pink-600) !important;
   font-weight: 600;
 }
 
 .page__footer-copyright,
 .page__footer-follow {
-  color: #fff !important;
+  color: #8f5f73 !important;
+}
+
+html[data-theme="dark"] .page__footer {
+  background: #3b2430 !important;
+  border-top-color: var(--pink-200);
+}
+
+html[data-theme="dark"] .page__footer a,
+html[data-theme="dark"] .page__footer-copyright,
+html[data-theme="dark"] .page__footer-follow {
+  color: #ffd6e8 !important;
+}
+
+html[data-theme="dark"] .masthead {
+  background: rgba(59, 36, 48, 0.96) !important;
+  border-bottom-color: var(--pink-200);
 }
 
 /* CV sections as cards */
