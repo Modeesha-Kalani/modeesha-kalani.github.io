@@ -20,7 +20,7 @@ redirect_from:
 </div>
 
 <div class="pretty-card">
-  <p class="card-title">Badges</p>
+  <p class="card-title">Badges and Certificates</p>
   {% include certification-badges.html %}
   <p>Click any badge to view the full-size image.</p>
   <p><a href="/mydocs/CV.pdf" class="btn btn--primary">Download my CV</a></p>

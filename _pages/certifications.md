@@ -6,7 +6,7 @@ author_profile: true
 
 Professional certifications in cloud architecture, artificial intelligence, infrastructure as code, and DevOps.
 
-## Verified Badges
+## Badges and Certificates
 
 Click any badge to view the full-size image.
 

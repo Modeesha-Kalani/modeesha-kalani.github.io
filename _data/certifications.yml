@@ -14,3 +14,19 @@
   url: /mydocs/certifications/TerraformAssociate.png
   alt: HashiCorp Certified Terraform Associate
   title: "HashiCorp Certified: Terraform Associate (003)"
+- image_path: /mydocs/certifications/GitLab.png
+  url: /mydocs/certifications/GitLab.png
+  alt: GitLab Continuous Integration CI Fundamentals
+  title: "GitLab Continuous Integration (CI) Fundamentals"
+- image_path: /mydocs/certifications/CICD.png
+  url: /mydocs/certifications/CICD.png
+  alt: Continuous Integration and Continuous Delivery with GitLab
+  title: "Continuous Integration and Continuous Delivery with GitLab"
+- image_path: /mydocs/certifications/PearsonOne.png
+  url: /mydocs/certifications/PearsonOne.png
+  alt: Pearson Professional Recognition
+  title: "Pearson — Professional Recognition"
+- image_path: /mydocs/certifications/PearsonTwo.png
+  url: /mydocs/certifications/PearsonTwo.png
+  alt: Pearson DXP Team Recognition
+  title: "Pearson — DXP Team Recognition"

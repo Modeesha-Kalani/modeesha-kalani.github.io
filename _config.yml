@@ -22,7 +22,7 @@ repository               : "modeesha-kalani/modeesha-kalani.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/mydocs/myphoto.jpg"
+  avatar           : "/mydocs/myphoto.jpeg"
   name             : "Modeesha Kalani"
   pronouns         :
   bio              : "Advanced Specialist DevOps & SRE at Pearson. AWS · IaC · CI/CD · Terraform · AI. HearMe Founder."
@@ -142,7 +142,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /mydocs/myphoto.jpg
+og_image                 : /mydocs/myphoto.jpeg
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
