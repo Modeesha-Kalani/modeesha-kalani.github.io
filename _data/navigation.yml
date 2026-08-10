@@ -8,5 +8,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
+  - title: "Certifications"
+    url: /certifications/
+
   - title: "CV"
     url: /cv/
