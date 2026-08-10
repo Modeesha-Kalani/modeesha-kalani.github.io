@@ -1,5 +1,5 @@
 ---
-permalink: /
+layout: single
 title: "Modeesha Kalani"
 author_profile: true
 redirect_from:
