@@ -10,7 +10,7 @@ redirect_from:
 <div class="hero-card">
   <p class="hero-greeting">Hi, I am Modeesha ✨</p>
   <p>I am an <strong>Advanced Specialist DevOps & SRE</strong> at <a href="https://www.pearson.com">Pearson</a>, based in Colombo, Sri Lanka. I specialize in <strong>AWS</strong>, <strong>Infrastructure as Code</strong>, <strong>CI/CD</strong>, and <strong>SRE</strong>, and I am pursuing an <strong>MSc in Artificial Intelligence</strong> at SLIIT.</p>
-  <p>I lead Pearson Lanka's largest infrastructure initiative (<strong>PDP/PIF</strong>) as SME for AWS CloudFormation Managed Services Templates. I also founded <strong>HearMe</strong>, an AI-powered platform for hearing-impaired children, recognized by Microsoft Imagine Cup, NBQSA, and the World Summit Awards.</p>
+  <p>I lead Pearson Lanka's largest infrastructure initiative (<strong>PDP/PIF</strong>) as SME for AWS CloudFormation Managed Services Templates. I am also <strong>Co-Founder</strong> of <strong>HearMe</strong>, an AI-powered platform for hearing-impaired children, recognized by Microsoft Imagine Cup, NBQSA, and the World Summit Awards.</p>
   <div class="nav-pills">
     <a href="/education/">Education</a>
     <a href="/career/">Career</a>

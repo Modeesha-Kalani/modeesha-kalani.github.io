@@ -8,4 +8,4 @@ collection: portfolio
 
 During this role, I contributed to web development initiatives within the Mozilla Campus community at the Sri Lanka Institute of Information Technology (SLIIT), building practical experience in front-end development alongside my undergraduate studies in Software Engineering.
 
-This experience complemented my academic foundation at SLIIT and early interest in building technology for community impact — a path that later led to founding HearMe and pursuing cloud engineering at Pearson.
+This experience complemented my academic foundation at SLIIT and early interest in building technology for community impact — a path that later led to co-founding HearMe and pursuing cloud engineering at Pearson.

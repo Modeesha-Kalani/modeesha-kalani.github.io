@@ -12,7 +12,7 @@ site_theme               : "pink"
 title                    : "Modeesha Kalani"
 title_separator          : "-"
 name                     : &name "Modeesha Kalani"
-description              : &description "Advanced Specialist DevOps & SRE at Pearson | MSc AI | AWS Solutions Architect | Terraform | GitLab CI/CD | HearMe Founder"
+description              : &description "Advanced Specialist DevOps & SRE at Pearson | MSc AI | AWS Solutions Architect | Terraform | GitLab CI/CD"
 url                      : https://modeesha-kalani.github.io
 baseurl                  : ""
 repository               : "modeesha-kalani/modeesha-kalani.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "/mydocs/myphoto.jpeg"
   name             : "Modeesha Kalani"
   pronouns         :
-  bio              : "Advanced Specialist DevOps & SRE at Pearson. AWS · IaC · CI/CD · Terraform · AI. HearMe Founder."
+  bio              : "Advanced Specialist DevOps & SRE at Pearson. AWS · IaC · CI/CD · Terraform · AI."
   location         : "Colombo, Sri Lanka"
   employer         : "Pearson"
   uri              : # URL

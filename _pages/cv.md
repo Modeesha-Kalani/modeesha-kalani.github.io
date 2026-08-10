@@ -13,7 +13,7 @@ redirect_from:
 
 Profile
 ======
-Advanced Specialist DevOps & SRE at Pearson with 5+ years of experience in AWS, Infrastructure as Code, automation, and CI/CD. SME for AWS CloudFormation Managed Services Templates and owner of Pearson Lanka's largest infrastructure initiative (PDP/PIF). MSc in Artificial Intelligence (in progress). Founder of HearMe, recognized by Microsoft Imagine Cup, NBQSA, and WSA.
+Advanced Specialist DevOps & SRE at Pearson with 5+ years of experience in AWS, Infrastructure as Code, automation, and CI/CD. SME for AWS CloudFormation Managed Services Templates and owner of Pearson Lanka's largest infrastructure initiative (PDP/PIF). MSc in Artificial Intelligence (in progress). Co-Founder of HearMe, recognized by Microsoft Imagine Cup, NBQSA, and WSA.
 
 **Contact:** modeeshakalani97@gmail.com · [LinkedIn](https://www.linkedin.com/in/modeesha-kalani-b22043199) · [GitHub](https://github.com/modeesha-kalani)
 
@@ -23,8 +23,8 @@ Education
   * First batch of MSc in AI; Batch Top Y1S2 (GPA 3.76)
 * **Bachelor of Science (BSc), Information Technology (Software Engineering)**, SLIIT — 2019 – 2023
   * Graduated 7 Sep 2023 with 2+ years industry experience; Batch Representative (4 years)
-  * Dean's List (3×); Highest GPA 4.0 (1st Year); study support sessions for juniors
-  * Final Year Research recognized globally; Skills: Python, PHP
+  * Dean's List (3×, BSc); study support sessions for juniors
+  * Final Year Research recognized globally
 * **Higher National Diploma, English Language and Literature**, Sabaragamuwa University — 2016 – 2017
   * GPA 3.56/4.0; professional working proficiency in English
 * **Sivali Central College, Rathnapura** — January 2007 – August 2016
@@ -33,9 +33,9 @@ Education
 Academic Honors
 ======
 * Batch Top — MSc AI Y1S2 (GPA 3.76, Jun 2026)
-* Dean's List — 4th Year (GPA 3.95, Jul 2023)
-* Dean's List — 2nd Year (GPA 3.76, Jun 2021)
-* Highest GPA — 1st Year (GPA 4.0, Jun 2020)
+* Dean's List — 4th Year, BSc (GPA 3.95, Jul 2023)
+* Dean's List — 2nd Year, BSc (GPA 3.76, Jun 2021)
+* Dean's List — 1st Year, BSc (GPA 4.0, Jun 2020)
 
 Work experience
 ======
@@ -55,7 +55,7 @@ Work experience
 * **Intern Cloud Engineer**, Pearson — August 2021 – July 2022
   * CI/CD pipeline, CloudFormation modules, GitLab CI, AWS migrations and platform support
 
-* **Founder**, HearMe — February 2022 – January 2024 (Remote)
+* **Co-Founder**, HearMe — February 2022 – January 2024 (Remote)
   * Learning platform for hearing-impaired children; recognized 3× by Microsoft
   * Collaborators: Wickramarachchi Hearing Care Providers · Sri Lanka Hearing Impaired Children Association
 

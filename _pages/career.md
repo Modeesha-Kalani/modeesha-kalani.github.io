@@ -6,7 +6,7 @@ author_profile: true
 
 <div class="hero-card">
   <p class="hero-greeting">Career Journey</p>
-  <p>Cloud and DevOps professional with <strong>5+ years at Pearson</strong>, progressing from Intern Cloud Engineer to <strong>Advanced Specialist DevOps & SRE</strong>. Founder of <strong>HearMe</strong>, an award-winning platform for hearing-impaired children.</p>
+  <p>Cloud and DevOps professional with <strong>5+ years at Pearson</strong>, progressing from Intern Cloud Engineer to <strong>Advanced Specialist DevOps & SRE</strong>. <strong>Co-Founder</strong> of <strong>HearMe</strong>, an award-winning platform for hearing-impaired children.</p>
 </div>
 
 <div class="pretty-card">
@@ -62,7 +62,7 @@ author_profile: true
 </div>
 
 <div class="pretty-card">
-  <p class="card-title">HearMe — Founder</p>
+  <p class="card-title">HearMe — Co-Founder</p>
   <p class="card-meta">Self-employed · February 2022 – January 2024 · Remote</p>
   <p>A learning development platform for hearing-impaired children worldwide.</p>
   <p>Recognized <strong>3× by Microsoft</strong> for our initiative and the quality of the product. Working in collaboration with <strong>Wickramarachchi Hearing Care Providers</strong> and the <strong>Sri Lanka Hearing Impaired Children Association</strong>.</p>

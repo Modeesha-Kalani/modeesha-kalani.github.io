@@ -50,7 +50,7 @@ author_profile: true
 
 <div class="pretty-card">
   <p class="card-title">About HearMe</p>
-  <p>HearMe is an AI-powered learning development platform for hearing-impaired children, founded in collaboration with <strong>Wickramarachchi Hearing Care Providers</strong> and the <strong>Sri Lanka Hearing Impaired Children Association</strong>.</p>
+  <p>HearMe is an AI-powered learning development platform for hearing-impaired children, co-founded in collaboration with <strong>Wickramarachchi Hearing Care Providers</strong> and the <strong>Sri Lanka Hearing Impaired Children Association</strong>.</p>
   <p>Recognized <strong>3× by Microsoft</strong> for initiative and product quality.</p>
   <p><strong>Team:</strong> Saluka Udbhasa · Parami Lelkada · Modeesha Kalani</p>
   <p>Learn more in my <a href="/career/">Career</a> section.</p>

@@ -17,7 +17,6 @@ author_profile: true
   <ul>
     <li>First batch of MSc in AI at SLIIT</li>
     <li>Batch Top — 1st Year 2nd Semester (GPA 3.76, June 2026)</li>
-    <li>Modules: Deep Learning, Optimization Methods, Neuroscience and Neuro Computing, Natural Language Processing, Research Methods</li>
   </ul>
 
   <p class="card-subtitle">Bachelor of Science (BSc), Information Technology — Software Engineering</p>
@@ -26,10 +25,9 @@ author_profile: true
     <li>Graduated on 7th September 2023 with more than 2 years of working experience in the industry</li>
     <li>Batch Representative for all 4 years</li>
     <li>Held study support sessions for juniors on Data Structures and Algorithms, Software Development Principles, and DevOps Concepts</li>
-    <li>Received 3 Dean's List Awards</li>
+    <li>Received 3 Dean's List Awards (BSc)</li>
     <li>Final Year Research project recognized globally for its impact and research & development</li>
   </ul>
-  <p><strong>Skills:</strong> Python, PHP</p>
 </div>
 
 <div class="pretty-card">
@@ -58,13 +56,13 @@ author_profile: true
   <p class="card-subtitle">Batch Top — MSc AI, Year 1 Semester 2</p>
   <p class="card-meta">GPA 3.76 · June 2026 · SLIIT</p>
 
-  <p class="card-subtitle">Dean's List Award — 4th Year</p>
+  <p class="card-subtitle">Dean's List Award — 4th Year (BSc)</p>
   <p class="card-meta">GPA 3.95 · July 2023 · SLIIT</p>
 
-  <p class="card-subtitle">Dean's List Award — 2nd Year</p>
+  <p class="card-subtitle">Dean's List Award — 2nd Year (BSc)</p>
   <p class="card-meta">GPA 3.76 · June 2021 · SLIIT</p>
 
-  <p class="card-subtitle">Highest GPA — 1st Year</p>
+  <p class="card-subtitle">Dean's List Award — 1st Year (BSc)</p>
   <p class="card-meta">GPA 4.0 · June 2020 · SLIIT</p>
 </div>
 

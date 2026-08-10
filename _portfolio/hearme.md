@@ -4,7 +4,7 @@ excerpt: "AI-powered learning platform for hearing-impaired children — Imagine
 collection: portfolio
 ---
 
-**HearMe** is an AI-powered learning development platform designed for hearing-impaired children worldwide. I founded and led the project from **February 2022 to January 2024**, building a solution that uses artificial intelligence not just as a tool, but as a foundational element to improve accessibility in education.
+**HearMe** is an AI-powered learning development platform designed for hearing-impaired children worldwide. I co-founded and led the project from **February 2022 to January 2024**, building a solution that uses artificial intelligence not just as a tool, but as a foundational element to improve accessibility in education.
 
 ## Problem & Mission
 
@@ -12,7 +12,7 @@ Hearing-impaired children often lack accessible, engaging learning tools tailore
 
 ## Team
 
-* **Modeesha Kalani** — Founder
+* **Modeesha Kalani** — Co-Founder
 * **Saluka Udbhasa**
 * **Parami Lelkada**
 
