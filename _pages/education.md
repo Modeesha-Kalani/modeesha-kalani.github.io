@@ -6,7 +6,7 @@ author_profile: true
 
 <div class="hero-card">
   <p class="hero-greeting">Education & Learning</p>
-  <p>From school in Rathnapura to postgraduate studies in Artificial Intelligence at SLIIT — with industry experience, leadership, and research recognition along the way.</p>
+  <p>From school in Rathnapura to postgraduate studies in Artificial Intelligence at SLIIT — with academic honors, industry certifications, and research recognition along the way.</p>
 </div>
 
 <div class="pretty-card">
@@ -16,7 +16,8 @@ author_profile: true
   <p class="card-meta">August 2025 – August 2027 · In progress</p>
   <ul>
     <li>First batch of MSc in AI at SLIIT</li>
-    <li>Batch Top — 1st Year 2nd Semester</li>
+    <li>Batch Top — 1st Year 2nd Semester (GPA 3.76, June 2026)</li>
+    <li>Modules: Deep Learning, Optimization Methods, Neuroscience and Neuro Computing, Natural Language Processing, Research Methods</li>
   </ul>
 
   <p class="card-subtitle">Bachelor of Science (BSc), Information Technology — Software Engineering</p>
@@ -34,9 +35,8 @@ author_profile: true
 <div class="pretty-card">
   <p class="card-title">Sabaragamuwa University of Sri Lanka</p>
   <p class="card-subtitle">Higher National Diploma, English Language and Literature / Letters</p>
-  <p class="card-meta">2016 – 2017</p>
+  <p class="card-meta">2016 – 2017 · Diploma in English (GPA 3.56/4.0, January 2018)</p>
   <ul>
-    <li>Scored 3.56 / 4.0</li>
     <li>Tested in English Speaking, Reading, Literature, Listening and Understanding</li>
     <li>Certified language development up to professional working proficiency</li>
   </ul>
@@ -53,14 +53,43 @@ author_profile: true
 </div>
 
 <div class="pretty-card">
-  <p class="card-title">Certifications</p>
+  <p class="card-title">Academic Honors</p>
+
+  <p class="card-subtitle">Batch Top — MSc AI, Year 1 Semester 2</p>
+  <p class="card-meta">GPA 3.76 · June 2026 · SLIIT</p>
+
+  <p class="card-subtitle">Dean's List Award — 4th Year</p>
+  <p class="card-meta">GPA 3.95 · July 2023 · SLIIT</p>
+
+  <p class="card-subtitle">Dean's List Award — 2nd Year</p>
+  <p class="card-meta">GPA 3.76 · June 2021 · SLIIT</p>
+
+  <p class="card-subtitle">Highest GPA — 1st Year</p>
+  <p class="card-meta">GPA 4.0 · June 2020 · SLIIT</p>
+</div>
+
+<div class="pretty-card">
+  <p class="card-title">Professional Certifications</p>
+
+  <p class="card-subtitle">AWS Certified Solutions Architect — Associate</p>
+  <p class="card-meta">Score: 906/1000 · January 2025 · Pearson</p>
+  <p>Passed with score above the 720 passing threshold. Offered opportunity to contribute as a Subject Matter Expert for the AWS SAA exam. Domains: Secure, Resilient, High-Performing, and Cost-Optimized Architectures.</p>
+
+  <p class="card-subtitle">AWS Certified Artificial Intelligence Practitioner</p>
+  <p class="card-meta">Score: 795/1000 · February 2025 · Pearson</p>
+  <p>Among the first global earners of the AWS AI certification (Early Adopter badge). Domains: AI/ML Fundamentals, Generative AI, Foundation Models, Responsible AI, and AI Security & Governance.</p>
+
+  <p class="card-subtitle">HashiCorp Certified: Terraform Associate (003)</p>
+  <p class="card-meta">Pass · March 2025 · Pearson</p>
+  <p>Domains: IaC concepts, Terraform basics & workflow, modules, state management, configuration, and Terraform Cloud.</p>
+
+  <p class="card-subtitle">Oracle Cloud Infrastructure — Associate</p>
+  <p class="card-meta">Score: 96% · December 2021 · Pearson Lanka</p>
+
+  <p class="card-subtitle">GitLab CI/CD</p>
   <ul class="pill-list">
-    <li>AWS Solutions Architect</li>
-    <li>AWS AI Practitioner</li>
-    <li>AWS AI Early Adopter</li>
-    <li>Terraform Associate</li>
-    <li>GitLab CI Fundamentals</li>
-    <li>GitLab CI/CD</li>
+    <li>GitLab Continuous Integration (CI) Fundamentals</li>
+    <li>Continuous Integration and Continuous Delivery with GitLab</li>
   </ul>
 </div>
 

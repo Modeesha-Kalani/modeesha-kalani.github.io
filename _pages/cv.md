@@ -20,55 +20,53 @@ Advanced Specialist DevOps & SRE at Pearson with 5+ years of experience in AWS, 
 Education
 ======
 * **Master of Science (MSc), Artificial Intelligence**, SLIIT — August 2025 – August 2027 *(in progress)*
-  * First batch of MSc in AI at SLIIT; Batch Top — 1st Year 2nd Semester
+  * First batch of MSc in AI; Batch Top Y1S2 (GPA 3.76)
 * **Bachelor of Science (BSc), Information Technology (Software Engineering)**, SLIIT — 2019 – 2023
-  * Graduated 7 September 2023 with 2+ years industry experience; Batch Representative (4 years)
-  * Study support sessions for juniors (DSA, SDP, DevOps); 3 Dean's List Awards
-  * Final Year Research project recognized globally for impact and R&D
-  * Skills: Python, PHP
+  * Graduated 7 Sep 2023 with 2+ years industry experience; Batch Representative (4 years)
+  * Dean's List (3×); Highest GPA 4.0 (1st Year); study support sessions for juniors
+  * Final Year Research recognized globally; Skills: Python, PHP
 * **Higher National Diploma, English Language and Literature**, Sabaragamuwa University — 2016 – 2017
   * GPA 3.56/4.0; professional working proficiency in English
 * **Sivali Central College, Rathnapura** — January 2007 – August 2016
-  * 9A passes at O/L (2013); A/L Biological Sciences (2016); Senior Prefect (2015–2016)
+  * 9A O/L passes (2013); A/L Biological Sciences (2016); Senior Prefect (2015–2016)
+
+Academic Honors
+======
+* Batch Top — MSc AI Y1S2 (GPA 3.76, Jun 2026)
+* Dean's List — 4th Year (GPA 3.95, Jul 2023)
+* Dean's List — 2nd Year (GPA 3.76, Jun 2021)
+* Highest GPA — 1st Year (GPA 4.0, Jun 2020)
 
 Work experience
 ======
 * **Advanced Specialist DevOps & SRE**, Pearson — February 2026 – Present
-  * Subject Matter Expert on Infrastructure as Code (CloudFormation)
-  * Owner of Maintenance Epic for PDP/PIF (Pearson Development Pipeline / Pearson Infrastructure Framework)
+  * SME on Infrastructure as Code (CloudFormation); Owner of Maintenance Epic for PDP/PIF
 
 * **Senior Cloud Engineer**, Pearson — June 2025 – February 2026
-  * Owner of the PDP/PIF epic — the largest epic maintained by DXP (Developer Experience and Productivity)
-  * SME on AWS CloudFormation Managed Services Templates used across teams organization-wide
-  * Actively interviewed and onboarded DevOps Engineers and Software Developers
+  * Owner of PDP/PIF epic (largest epic maintained by DXP); SME on CloudFormation Managed Services Templates
+  * Interviewed and onboarded DevOps Engineers and Software Developers
 
 * **Cloud Engineer**, Pearson — October 2023 – June 2025
-  * Collaborated with customers to unblock deployment issues
-  * Interviewed and onboarded Junior Engineers and Developers
-  * Implemented IaC features and priority fixes from software engineering teams
-  * Ensured Pearson compliance in AWS resources across AWS accounts
+  * Unblocked customer deployments; SME on CloudFormation Templates; IaC features and compliance across AWS accounts
 
 * **Associate Cloud Engineer**, Pearson — July 2022 – October 2023
-  * Implemented IaC feature requests from software engineering teams
-  * Designed and implemented Divvy IaC scanning for managed services pipeline
-  * Enabled timely backups from production accounts to bunker accounts via backup vaults
-  * Received special training from Amazon for developing and advanced developing in AWS
+  * Divvy IaC scanning; backup vaults; Amazon AWS development training
 
 * **Intern Cloud Engineer**, Pearson — August 2021 – July 2022
-  * Developed components for a generic CI/CD pipeline and infrastructure framework
-  * Built reliable infrastructure provisioning modules with CloudFormation
-  * Configured CI/CD pipelines using GitLab CI
-  * Supported application onboarding and migrations to AWS cloud
-  * Provided technical support for platform and CI/CD pipeline troubleshooting
+  * CI/CD pipeline, CloudFormation modules, GitLab CI, AWS migrations and platform support
 
-* **Founder**, HearMe — February 2022 – January 2024
-  * AI-powered learning development platform for hearing-impaired children worldwide
-  * Winner — Microsoft Imagine Cup Sri Lanka (2024); Top 20 global semifinalist — Imagine Cup 2024
-  * Recognized 3× by Microsoft; collaborated with Wickramarachchi Hearing Care Providers and Sri Lanka Hearing Impaired Children Association
-  * Team: Saluka Udbhasa, Parami Lelkada
+* **Founder**, HearMe — February 2022 – January 2024 (Remote)
+  * Learning platform for hearing-impaired children; recognized 3× by Microsoft
+  * Collaborators: Wickramarachchi Hearing Care Providers · Sri Lanka Hearing Impaired Children Association
 
 * **Web Developer**, Mozilla Campus Club of SLIIT — May 2020 – January 2022
-  * Web development contributions for the Mozilla Campus Club at SLIIT
+
+Positions
+======
+* **Treasurer**, Software Engineering Student Community — SLIIT (Mar 2022 – Apr 2023)
+* **Marketing Lead**, SLIIT Women In FOSS Community (Jan 2022 – Feb 2023)
+* **Batch Representative**, SLIIT Faculty of Computing Students Community (Jul 2019 – May 2023)
+* **Student Volunteer**, LEO Club of SLIIT (Jan 2020 – Dec 2021)
 
 Skills
 ======
@@ -81,23 +79,24 @@ Skills
 
 Certifications
 ======
-* [View certification badges](/certifications/)
+* [View certification badges](/)
 
-* HashiCorp Certified: Terraform Associate (003)
-* AWS Certified Solutions Architect – Associate
-* AWS Certified AI Practitioner
-* AWS Certified AI Practitioner Early Adopter
+* **AWS Certified Solutions Architect – Associate** (906/1000, Jan 2025)
+* **AWS Certified AI Practitioner** (795/1000, Feb 2025; Early Adopter)
+* **HashiCorp Certified: Terraform Associate (003)** (Mar 2025)
+* **Oracle Cloud Infrastructure – Associate** (96%, Dec 2021)
 * GitLab Continuous Integration (CI) Fundamentals
 * Continuous Integration and Continuous Delivery with GitLab
 
 Honors & Awards
 ======
-* Microsoft Imagine Cup — Winner, Sri Lanka (2024)
-* Microsoft Imagine Cup — Global Top 20 Semifinalist (2024)
-* Microsoft APAC AI for Accessibility
-* NBQSA — National Best Quality Software Awards 2023
-* WSA — World Summit Awards 2023
-* Recognition from Pearson — outstanding contributions in cloud automation
+* SLASSCOM Ingenuity Awards 2024 — All Island 2nd Runner Up (Jun 2024)
+* Recognition from Pearson — DXP Team (Apr 2024)
+* Microsoft Imagine Cup — Sri Lanka Winner & Global Top 20 Semifinalist (Mar 2024)
+* SLIIT Research Excellence Award (Jan 2024)
+* WSA — World Summit Awards 2023 (Jan 2024)
+* NBQSA 2023 — Merit Award, Business Category (Oct 2023)
+* Microsoft APAC AI for Accessibility — Winner Sri Lanka (Jul 2023)
 
 Publications
 ======
