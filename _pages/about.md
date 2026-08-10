@@ -5,23 +5,6 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-certifications:
-  - image_path: /mydocs/certifications/AWSSolutionsArchitect.png
-    url: /mydocs/certifications/AWSSolutionsArchitect.png
-    alt: AWS Certified Solutions Architect Associate
-    title: AWS Certified Solutions Architect – Associate
-  - image_path: /mydocs/certifications/AIPractitioner.png
-    url: /mydocs/certifications/AIPractitioner.png
-    alt: AWS Certified AI Practitioner
-    title: AWS Certified AI Practitioner
-  - image_path: /mydocs/certifications/EarlyAdopterAI.png
-    url: /mydocs/certifications/EarlyAdopterAI.png
-    alt: AWS Certified AI Practitioner Early Adopter
-    title: AWS Certified AI Practitioner Early Adopter
-  - image_path: /mydocs/certifications/TerraformAssociate.png
-    url: /mydocs/certifications/TerraformAssociate.png
-    alt: HashiCorp Certified Terraform Associate
-    title: HashiCorp Certified: Terraform Associate (003)
 ---
 
 Hi, I am Modeesha.
@@ -34,7 +17,7 @@ Explore my [education](/education/), [career](/career/), [awards](/awards/), or 
 
 ## Certifications
 
-{% include gallery id="certifications" %}
+{% include certification-badges.html %}
 
 Click any badge to view the full-size image.
 
