@@ -35,4 +35,4 @@ My research project **HearMe** — a learning development platform for hearing-i
 
 I thrive in collaborative, high-impact environments and am always exploring ways to blend cloud engineering with AI and automation.
 
-[Download my CV](/files/modeesha-kalani-cv.pdf){: .btn .btn--primary}
+[Download my CV](/mydocs/Profile.pdf){: .btn .btn--primary}

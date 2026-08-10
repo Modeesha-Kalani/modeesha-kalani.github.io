@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF version](/files/modeesha-kalani-cv.pdf)
+[Download PDF version](/mydocs/Profile.pdf)
 
 Education
 ======
