@@ -17,6 +17,31 @@
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
-<meta name="theme-color" content="var(--global-bg-color)"/>
+<meta name="theme-color" content="#fff5f8"/>
+
+<style>
+  .page__content a.btn--primary,
+  .author__urls .btn--inverse {
+    background-color: #c2185b;
+    border-color: #c2185b;
+  }
+
+  .page__content a.btn--primary:hover,
+  .author__urls .btn--inverse:hover {
+    background-color: #9e1449;
+    border-color: #9e1449;
+  }
+
+  .sidebar .author__avatar img {
+    border: 3px solid #f5c6d8;
+    border-radius: 50%;
+  }
+
+  figure.third img,
+  figure.half img {
+    border-radius: 8px;
+    box-shadow: 0 4px 14px rgba(194, 24, 91, 0.12);
+  }
+</style>
 
 <!-- end custom head snippets -->
